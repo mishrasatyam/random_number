@@ -1,1 +1,1 @@
-# random_number
+Genrate random number between a range with decimal places.
